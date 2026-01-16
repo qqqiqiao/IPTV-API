@@ -383,6 +383,34 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="陕西卫视.png" group-title="📡卫视频道",陕西卫视
 https://migu.188766.xyz/?migutoken=c46d49279b74b54cd756dc1f7ee94d39&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
+https://mgtv.ottiptv.cc/migu/956909289.m3u8?migutoken=d4f3f5a8bf93821548ae70c6bd12860956574c27b3b1ef52c88c8e3d72259b1727a6dbf5d6a5de850afac4c7ffe2f2124bb3b558a89906cd32ccc8913f0f22dd74b7a84514b6015bff75903d9c
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=20250919080136670d8cf97d464e1f874949e449ebd1ac&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=01b1afdabd15fc39dd9264ccca9ac59f&ddCalcu=f091e5b1c16aa09fadcacbcd41652f9cd3d9
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510230801447f8d4c3a1a3c4ca1bd0de217472d80f2&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6ed563603d847927c8983a33d5b70e32&ddCalcu=263eeed2056760b356d0333da834879982c7
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510240800591ee112712ed2473aa0d84b8ea3046959&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5661fd15cfb5726d7c6a1eb652fdb094&ddCalcu=4596e062b16df0fd21556cbfeb15a762c67d
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
+https://mgtv.ottiptv.cc/migu/956909358.m3u8?migutoken=c3931ea9d3d7ede24a9d13084dadcc55f7f21b114c6c584ca7defd6492ba46b7286dbd751d0f853f83e998e4b0349c62cf4bc570ac83667c4f6bd49a9411edc68e80c1d7f24da79a264d15912b
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=20250919080136b45ee433a7cf4d688994f00b794d176d&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9db1317be8c80566b10f130aebe87c29&ddCalcu=992decb1716830e1b7ebae083c18f00516b6
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=202510230801444202628b64cc49f4bfb9f6b1dfb1f491&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83284c876ebb25ecdf72f4eb4dd5a006&ddCalcu=6803e022a86540dcd847b6ee4bfb2275fedc
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2025102408005947806826798c44e4b89b7ed86b1ba04f&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=52c95103cb01acfba0783bb6dba5f262&ddCalcu=2562e2c2f96550a1b0d36cbbb0318a7c0fab
+#EXTINF:-1 tvg-name="陕西公共" tvg-logo="陕西公共.png" group-title="☘️陕西频道",陕西公共
+http://ls.qingting.fm/live/1222.m3u8
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="陕西体育休闲.png" group-title="☘️陕西频道",陕西体育休闲
+https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=2cd1b3120e6a6d3cec136ca61cb23c24512860d4956d391b8c7d8a1fce58c3fa549930217eede8887c05f73eb24ac9692be10bdd06557f58130ff6717e37e1b6ba38adfacf8e74298fe1d4f48c
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="陕西体育休闲.png" group-title="☘️陕西频道",陕西体育休闲
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20250921080053bb7e3ee981dc4bde95a765fbffef7b9e&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20250921080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20250921080053&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=43ffb82e5f9372a440dd84479d27b2f6&ddCalcu=64f3e2f2bf67b028d29e754f4983d7d20a44
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="陕西体育休闲.png" group-title="☘️陕西频道",陕西体育休闲
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251023080139c026415ca4654e0cb51f36f8105eb6a1&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251023080139&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.83&SecurityKey=20251023080139&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=101f9c0a14d24dc78aa97137482db06c&ddCalcu=c160e012bf6d902c804a71341d7294adac87
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="陕西体育休闲.png" group-title="☘️陕西频道",陕西体育休闲
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251024080056953be86c14d64c758cd4dbf06a58c942&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251024080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20251024080056&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d18ceaa4887dd90437843aedd252e8e7&ddCalcu=7de1e882ec62e05a2ad4d8e8a73d4d897034
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="陕西体育休闲.png" group-title="☘️陕西频道",陕西体育休闲
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2025102508005957060912be0d47f78a9e823b236e0022&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251025080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.90&SecurityKey=20251025080059&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25d98077b85839680d0db7d4d6a823de&ddCalcu=e2d5e3d2296880a067d74bd875b8d309d608
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -443,6 +471,10 @@ http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
+http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="香港卫视.png" group-title="🌊港·澳·台",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="香港卫视.png" group-title="🌊港·澳·台",香港卫视
@@ -463,8 +495,6 @@ https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8
 https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="香港卫视.png" group-title="🌊港·澳·台",香港卫视
 https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
-http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="东森超视.png" group-title="🌊港·澳·台",东森超视
 https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="东森超视.png" group-title="🌊港·澳·台",东森超视
@@ -485,8 +515,6 @@ https://hls-gateway.vpstv.net/streams/476234.m3u8
 https://stream1.freetv.fun/dong-sen-chao-shi-2.ctv
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="东森超视.png" group-title="🌊港·澳·台",东森超视
 https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
-#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="东森电影.png" group-title="🌊港·澳·台",东森电影
 https://hls-gateway.vpstv.net/streams/476995.m3u8
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="东森电影.png" group-title="🌊港·澳·台",东森电影
@@ -499,14 +527,6 @@ https://hls-gateway.vpstv.net/streams/476997.m3u8
 https://smt.858.qzz.io/Smart.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="东森洋片.png" group-title="🌊港·澳·台",东森洋片
 http://php.666230.xyz/smt.php?id=ettvwestern
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
-https://mgtv.ottiptv.cc/migu/956909358.m3u8?migutoken=c3931ea9d3d7ede24a9d13084dadcc55f7f21b114c6c584ca7defd6492ba46b7286dbd751d0f853f83e998e4b0349c62cf4bc570ac83667c4f6bd49a9411edc68e80c1d7f24da79a264d15912b
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=20250919080136b45ee433a7cf4d688994f00b794d176d&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9db1317be8c80566b10f130aebe87c29&ddCalcu=992decb1716830e1b7ebae083c18f00516b6
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=202510230801444202628b64cc49f4bfb9f6b1dfb1f491&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83284c876ebb25ecdf72f4eb4dd5a006&ddCalcu=6803e022a86540dcd847b6ee4bfb2275fedc
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2025102408005947806826798c44e4b89b7ed86b1ba04f&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=52c95103cb01acfba0783bb6dba5f262&ddCalcu=2562e2c2f96550a1b0d36cbbb0318a7c0fab
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
@@ -515,6 +535,24 @@ https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv
 https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+http://z.b.bkpcp.top/m.php?id=dzdy
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
+https://yylunbo.ottiptv.cc/yy/1414812324
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
+https://tv.iill.top/4gtv/201
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
+https://stream1.freetv.fun/jing-dian-dian-ying-9.ctv
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
+https://stream1.freetv.fun/jing-dian-dian-ying-8.ctv
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
+https://stream1.freetv.fun/jing-dian-dian-ying-15.ctv
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
+https://stream1.freetv.fun/jing-dian-dian-ying-1.ctv
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="天映经典.png" group-title="🎬电影频道",天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="天映经典.png" group-title="🎬电影频道",天映经典
@@ -535,18 +573,6 @@ http://frus7.jdiptv.cc/live/xgtyjdgy.m3u8kdstime=1743869071&kdssign=3f092afa312e
 https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="天映经典.png" group-title="🎬电影频道",天映经典
 http://cdn10.163189.xyz/163189/ccm
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
-https://yylunbo.ottiptv.cc/yy/1414812324
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
-https://tv.iill.top/4gtv/201
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
-https://stream1.freetv.fun/jing-dian-dian-ying-9.ctv
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
-https://stream1.freetv.fun/jing-dian-dian-ying-8.ctv
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
-https://stream1.freetv.fun/jing-dian-dian-ying-15.ctv
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
-https://stream1.freetv.fun/jing-dian-dian-ying-1.ctv
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="🎬电影频道",星空卫视
 https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="🎬电影频道",星空卫视
@@ -557,12 +583,6 @@ https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
 https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="🎬电影频道",星空卫视
 http://wouu.net:9977/rtp/239.93.1.10:2193
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
-http://z.b.bkpcp.top/m.php?id=dzdy
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
-http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
-https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="动漫秀场.png" group-title="🪁动画频道",动漫秀场
 https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="动漫秀场.png" group-title="🪁动画频道",动漫秀场
@@ -607,16 +627,6 @@ https://stream1.freetv.fun/you-man-qia-tong-11.m3u8
 https://www.freetv.top/migu/626064703.m3u8?migutoken=7f7c4b909389a0cd5172701768041a0f3887534c4534a68bf1dc85550389e9ab156655484be16e89604513fde9da2f036ebae28d31515b0be32eb12462f5de9d9cab8f00c44671241d5c6e1356
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="🪁动画频道",优漫卡通
 https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="七龙珠.png" group-title="🪁动画频道",七龙珠
-https://live.ottiptv.cc/huya/11601966
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="中华小当家.png" group-title="🪁动画频道",中华小当家
-https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="中华小当家.png" group-title="🪁动画频道",中华小当家
-https://live.iill.top/huya/11342413
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="猫和老鼠.png" group-title="🪁动画频道",猫和老鼠
-https://live.iill.top/huya/11352879
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="猫和老鼠.png" group-title="🪁动画频道",猫和老鼠
-http://live.iill.top/huya.php?id=11352879
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
@@ -637,6 +647,16 @@ https://stream1.freetv.fun/jin-ying-qia-tong-gao-qing-1.m3u8
 https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-32.ctv
+#EXTINF:-1 tvg-name="七龙珠" tvg-logo="七龙珠.png" group-title="🪁动画频道",七龙珠
+https://live.ottiptv.cc/huya/11601966
+#EXTINF:-1 tvg-name="中华小当家" tvg-logo="中华小当家.png" group-title="🪁动画频道",中华小当家
+https://live.metshop.top/huya/11342413
+#EXTINF:-1 tvg-name="中华小当家" tvg-logo="中华小当家.png" group-title="🪁动画频道",中华小当家
+https://live.iill.top/huya/11342413
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="猫和老鼠.png" group-title="🪁动画频道",猫和老鼠
+https://live.iill.top/huya/11352879
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="猫和老鼠.png" group-title="🪁动画频道",猫和老鼠
+http://live.iill.top/huya.php?id=11352879
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
 https://live.iill.top/huya/23865142
 #EXTINF:-1 tvg-name="西游记" tvg-logo="西游记.png" group-title="🏛经典剧场",西游记
@@ -647,3 +667,5 @@ http://cdn.jdshipin.com:8880/huya.php?id=30080242
 https://live.ottiptv.cc/huya/26355861
 #EXTINF:-1 tvg-name="三国演义" tvg-logo="三国演义.png" group-title="🏛经典剧场",三国演义
 https://live.iill.top/huya/11602081
+#EXTINF:-1 tvg-name="水浒传" tvg-logo="水浒传.png" group-title="🏛经典剧场",水浒传
+http://www.clmy.cc:35455/yy/1353873252
